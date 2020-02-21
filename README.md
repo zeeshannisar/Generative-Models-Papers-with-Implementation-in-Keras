@@ -4,4 +4,5 @@ inspired from https://github.com/eriklindernoren/Keras-GAN. The notebooks are a 
 be tested at Google Colab.    
 
 New models are continously being added.
+
 Feel free to contact me for any query or any other implementation. 
