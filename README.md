@@ -12,8 +12,8 @@ Feel free to contact me at zshnnisar@gmail.com for any query or any other implem
 
 ## Table of Contents
   + [BiGAN-Bidirectional Generative Adversarial Network](#bigan-bidirectional-generative-adversarial-network)
-  + [CGAN-Conditional Generative Adversarial Nets](#CGAN-Conditional Generative Adversarial Nets)
-  + [CycleGAN-Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](#CycleGAN-Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks)
+  + [CGAN-Conditional Generative Adversarial Nets](#cgan-conditional-generative-adversarial-nets)
+  + [CycleGAN-Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](#cyclegan-unpaired-image-to-image-translation-using-cycle-consistent-adversarial-networks)
   + [DCGAN-Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](#DCGAN-Unsupervised   Representation Learning with Deep Convolutional Generative Adversarial Networks)
   + [GAN-Generative Adversarial Network](#GAN-Generative Adversarial Network)
   + [WGAN-Wasserstein GAN](#WGAN-Wasserstein GAN)
@@ -24,7 +24,28 @@ Feel free to contact me at zshnnisar@gmail.com for any query or any other implem
 
 ### BiGAN-Bidirectional Generative Adversarial Network
 [Code: Google Colab Notebook](https://github.com/zeeshannisar/Generative-Models-Papers-with-Implementation-in-Keras/blob/master/BiGAN-Bidirectional%20Generative%20Adversarial%20Network/BiGAN-Implemntation.ipynb)
-#### Results
+#### Generated Results
 <p align="center">
     <img src="BiGAN-Bidirectional Generative Adversarial Network/BiGAN-training-outputs.gif" width="640"\>
+</p>
+
+### CGAN-Conditional Generative Adversarial Nets
+[Code: Google Colab Notebook](https://github.com/zeeshannisar/Generative-Models-Papers-with-Implementation-in-Keras/blob/master/CGAN-Conditional%20Generative%20Adversarial%20Nets/CGAN-Implementation.ipynb)
+#### Generated Results
+<p align="center">
+    <img src="CGAN-Conditional Generative Adversarial Nets/CGAN-training-outputs.gif" width="640"\>
+</p>
+
+### CycleGAN-Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+This Network is implemented for two different datasets including **MNIST** and **BRATS-2017**. 
+[Code: Google Colab Notebook for MNIST](https://github.com/zeeshannisar/Generative-Models-Papers-with-Implementation-in-Keras/blob/master/CycleGAN-Unpaired%20Image-to-Image%20Translation%20using%20Cycle-Consistent%20Adversarial%20Networks/Implementations/CycleGAN-Implementation-MNIST.ipynb)
+#### Generated Results for MNIST
+<p align="center">
+    <img src="CycleGAN-Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks/CycleGAN-MNIST-training-outputs.gif" width="640"\>
+</p>
+
+[Code: Google Colab Notebook for BRATS-2017](https://github.com/zeeshannisar/Generative-Models-Papers-with-Implementation-in-Keras/blob/master/CycleGAN-Unpaired%20Image-to-Image%20Translation%20using%20Cycle-Consistent%20Adversarial%20Networks/Implementations/CycleGAN-Implementation-BRATS-infected2normal.ipynb)
+#### Generated Results for BRATS-2017
+<p align="center">
+    <img src="CycleGAN-Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks/CycleGAN-BRATS-training-outputs.gif " width="640"\>
 </p>
