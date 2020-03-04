@@ -47,5 +47,5 @@ This Network is implemented for two different datasets including **MNIST** and *
 [Code: Google Colab Notebook for BRATS-2017](https://github.com/zeeshannisar/Generative-Models-Papers-with-Implementation-in-Keras/blob/master/CycleGAN-Unpaired%20Image-to-Image%20Translation%20using%20Cycle-Consistent%20Adversarial%20Networks/Implementations/CycleGAN-Implementation-BRATS-infected2normal.ipynb)
 #### Generated Results for BRATS-2017
 <p align="center">
-    <img src="CycleGAN-Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks/CycleGAN-BRATS-training-outputs.gif " width="640"\>
+    <img src="https://github.com/zeeshannisar/Research-Paper-Contribution/blob/master/Cascaded%20Model/BRATS%20Data/outputs/output-step%231.png">
 </p>
