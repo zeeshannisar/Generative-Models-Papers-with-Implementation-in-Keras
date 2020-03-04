@@ -15,7 +15,7 @@ Feel free to contact me at zshnnisar@gmail.com for any query or any other implem
   + [CGAN-Conditional Generative Adversarial Nets](#cgan-conditional-generative-adversarial-nets)
   + [CycleGAN-Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](#cyclegan-unpaired-image-to-image-translation-using-cycle-consistent-adversarial-networks)
   + [DCGAN-Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](#dcgan-unsupervised-representation-learning-with-deep-convolutional-generative-adversarial-networks)
-  + [GAN-Generative Adversarial Network](#GAN-Generative Adversarial Network)
+  + [GAN-Generative Adversarial Network](#gan-generative-adversarial-network)
   + [WGAN-Wasserstein GAN](#WGAN-Wasserstein GAN)
   + [WGAN_GP-Improved Training of Wasserstein GANs](#WGAN_GP-Improved Training of Wasserstein GANs)
   + [Pix2PixGAN-Image-to-Image Translation with Conditional Adversarial Networks](#Pix2PixGAN-Image-to-Image Translation with Conditional Adversarial Networks)
@@ -38,6 +38,7 @@ Feel free to contact me at zshnnisar@gmail.com for any query or any other implem
 
 ### CycleGAN-Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
 This Network is implemented for two different datasets including **MNIST** and **BRATS-2017**. 
+
 [Code: Google Colab Notebook for MNIST](https://github.com/zeeshannisar/Generative-Models-Papers-with-Implementation-in-Keras/blob/master/CycleGAN-Unpaired%20Image-to-Image%20Translation%20using%20Cycle-Consistent%20Adversarial%20Networks/Implementations/CycleGAN-Implementation-MNIST.ipynb)
 #### Generated Results for MNIST
 <p align="center">
@@ -55,4 +56,11 @@ This Network is implemented for two different datasets including **MNIST** and *
 #### Generated Results
 <p align="center">
     <img src="DCGAN-Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks/DCGAN-training-outputs.gif" width="640"\>
+</p>
+
+### GAN-Generative Adversarial Network
+[Code: Google Colab Notebook](https://github.com/zeeshannisar/Generative-Models-Papers-with-Implementation-in-Keras/blob/master/GAN-Generative%20Adversarial%20Network/GAN-Implementation.ipynb)
+#### Generated Results
+<p align="center">
+    <img src="GAN-Generative Adversarial Network/GAN-training-outputs.gif" width="640"\>
 </p>
