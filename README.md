@@ -11,7 +11,7 @@ New models are continously being added at daily basis.
 Feel free to contact me at zshnnisar@gmail.com for any query or any other implementation. 
 
 ## Table of Contents
-  + [BiGAN-Bidirectional Generative Adversarial Network](#bidirectional-generative-adversarial-network)
+  + [BiGAN-Bidirectional Generative Adversarial Network](#bigan-bidirectional-generative-adversarial-network)
   + [CGAN-Conditional Generative Adversarial Nets](#CGAN-Conditional Generative Adversarial Nets)
   + [CycleGAN-Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](#CycleGAN-Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks)
   + [DCGAN-Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](#DCGAN-Unsupervised   Representation Learning with Deep Convolutional Generative Adversarial Networks)
@@ -22,7 +22,7 @@ Feel free to contact me at zshnnisar@gmail.com for any query or any other implem
   
 ## **Code Implementations and Results**
 
-### Bidirectional Generative Adversarial Network
+### BiGAN-Bidirectional Generative Adversarial Network
 [Code: Google Colab Notebook](https://github.com/zeeshannisar/Generative-Models-Papers-with-Implementation-in-Keras/blob/master/BiGAN-Bidirectional%20Generative%20Adversarial%20Network/BiGAN-Implemntation.ipynb)
 #### Results
 <p align="center">
