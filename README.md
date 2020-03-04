@@ -14,7 +14,7 @@ Feel free to contact me at zshnnisar@gmail.com for any query or any other implem
   + [BiGAN-Bidirectional Generative Adversarial Network](#bigan-bidirectional-generative-adversarial-network)
   + [CGAN-Conditional Generative Adversarial Nets](#cgan-conditional-generative-adversarial-nets)
   + [CycleGAN-Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](#cyclegan-unpaired-image-to-image-translation-using-cycle-consistent-adversarial-networks)
-  + [DCGAN-Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](#DCGAN-Unsupervised   Representation Learning with Deep Convolutional Generative Adversarial Networks)
+  + [DCGAN-Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](#dcgan-unsupervised-representation-learning-with-deep-convolutional-generative-adversarial-networks)
   + [GAN-Generative Adversarial Network](#GAN-Generative Adversarial Network)
   + [WGAN-Wasserstein GAN](#WGAN-Wasserstein GAN)
   + [WGAN_GP-Improved Training of Wasserstein GANs](#WGAN_GP-Improved Training of Wasserstein GANs)
@@ -48,4 +48,11 @@ This Network is implemented for two different datasets including **MNIST** and *
 #### Generated Results for BRATS-2017
 <p align="center">
     <img src="https://github.com/zeeshannisar/Research-Paper-Contribution/blob/master/Cascaded%20Model/BRATS%20Data/outputs/output-step%231.png">
+</p>
+
+### DCGAN-Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+[Code: Google Colab Notebook](https://github.com/zeeshannisar/Generative-Models-Papers-with-Implementation-in-Keras/blob/master/DCGAN-Unsupervised%20Representation%20Learning%20with%20Deep%20Convolutional%20Generative%20Adversarial%20Networks/DCGAN-Implementation.ipynb)
+#### Generated Results
+<p align="center">
+    <img src="DCGAN-Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks/DCGAN-training-outputs.gif" width="640"\>
 </p>
