@@ -3,8 +3,7 @@
 </p>
 
 # **Generative Model Papers with Implementation in Keras**
-This repository contains a collection of Keras implementations of Generative Adversarial Networks (GANs) suggested in research papers. 
-All of these implementations are originally inspired from https://github.com/eriklindernoren/Keras-GAN. The Notebooks with are the simplest version of the real code by [Erik Linder-Norén](https://github.com/eriklindernoren) and can be directly tested at **Google Colab Notebooks**.    
+This Repository contains a collection of Keras implementations of Generative Adversarial Networks (GANs) suggested in research papers. All of these implementations are originally inspired by https://github.com/eriklindernoren/Keras-GAN. The Notebooks are the simplest version of the real code by [Erik Linder-Norén](https://github.com/eriklindernoren) and can be directly tested at **Google Colab Notebooks**.
 
 New models are continously being added at daily basis.
 
